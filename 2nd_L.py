@@ -12,6 +12,7 @@ print("simple intrest is",si)
 
 a,b=1,4
 print(a+b)
+print(b)
 
 a=1
 b=int("2")
